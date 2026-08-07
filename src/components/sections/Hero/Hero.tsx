@@ -129,7 +129,7 @@ export function Hero() {
           initial={{ opacity: 0, scale: 0.92, y: 30 }}
           animate={{ opacity: 1, scale: 1, y: 0 }}
           transition={{ duration: 0.9, ease: [0.16, 1, 0.3, 1], delay: 0.3 }}
-          className="relative mx-auto w-full max-w-sm md:max-w-"
+          className="relative mx-auto w-full max-w-sm md:max-w-md"
         >
           {/* Floating abstract blobs behind photo */}
           <div aria-hidden className="absolute -inset-10 -z-10">
