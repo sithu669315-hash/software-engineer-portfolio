@@ -96,7 +96,7 @@ export function Hero() {
             </Button>
             <Button
               as="a"
-              href="/public/CV.pdf"
+              href="/CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               variant="ghost"
@@ -151,7 +151,7 @@ export function Hero() {
               </div>
               <div className="relative aspect-[4/5] overflow-hidden rounded-2xl">
                 <img
-                  src="/public/porttofio.png"
+                  src="/porttofio.png"
                   alt="Portrait of Si Si"
                   className="h-full w-full object-cover transition-transform duration-700 ease-premium hover:scale-105"
                 />
