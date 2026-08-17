@@ -26,6 +26,7 @@ export interface TimelineItem {
   id: string;
   type: 'work' | 'education';
   title: string;
+  //Major:string;
   org: string;
   period: string;
   description: string;

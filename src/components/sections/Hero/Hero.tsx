@@ -43,7 +43,7 @@ export function Hero() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-dark-accent opacity-75" />
               <span className="relative inline-flex h-2 w-4 rounded-full bg-dark-accent " />
             </span>
-            Open to Junior Software Engineer Opportunities
+            Seeking a Junior Software Engineering Internship to Build, Learn, and Grow.
           </motion.p>
 
           <motion.h1
@@ -108,9 +108,9 @@ export function Hero() {
 
           <motion.div variants={item} className="mt-10 flex items-center gap-8">
             {[
-              ["5+", "Years experience"],
+             // ["5+", "Years experience"],
               ["12+", "Personal Projects"],
-              ["12", "Teams collaborated with"],
+              ["12+", "Teams collaborated with"],
             ].map(([stat, label]) => (
               <div key={label}>
                 <p className="font-display text-2xl font-bold text-light-text dark:text-dark-text">

@@ -1,11 +1,11 @@
-# Si Thu Hein Htet — Software Engineer Portfolio
+# Software Engineer Portfolio
 
 A modern, responsive personal portfolio website built to showcase my
 software engineering projects, technical skills, and learning journey.
 
 ## Live Demo
 
-🌐 [View Portfolio](YOUR_PORTFOLIO_URL)
+🌐 [View Portfolio](https://software-engineer-portfolio-pi.vercel.app/)
 
 ## Overview
 

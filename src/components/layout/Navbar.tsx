@@ -64,7 +64,7 @@ export function Navbar() {
           <ThemeToggle />
           <Button
             as="a"
-            href="/public/CV.pdf"
+            href="/CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             variant="secondary"

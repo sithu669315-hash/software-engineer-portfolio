@@ -7,7 +7,7 @@ const socials = [
   { icon: Github, href: "https://github.com/sithu669315-hash", label: "GitHub" },
   //{ icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
   //{ icon: Twitter, href: "https://twitter.com", label: "Twitter" },
-  { icon: Mail, href: "mailto:hello@alexrivera.dev", label: "Email" },
+  { icon: Mail, href: "mailto:sithu669315@gmail.com", label: "Email" },
 ];
 
 export function Footer() {
@@ -22,8 +22,7 @@ export function Footer() {
             SiSi<span className="text-gradient">.dev</span>
           </button>
           <p className="mt-2 max-w-xs text-sm text-light-muted dark:text-dark-muted">
-            Building fast, accessible interfaces — one release at a time.
-          </p>
+            Building the maintainable, scalable, usable, clean Software
         </div>
 
         <nav className="flex flex-wrap justify-center gap-x-6 gap-y-2">

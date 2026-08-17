@@ -17,8 +17,8 @@ export function Skills() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           eyebrow="Skills"
-          title="Tools I reach for"
-          description="A working toolkit refined across production systems — not just a list of buzzwords."
+          title=""
+          description=""
         />
 
         <div className="mb-10 flex flex-wrap gap-2">
